@@ -1,0 +1,42 @@
+@baseURL=http://localhost:3333/api
+@sourceName=products
+
+#@name getAll
+GET {{baseURL}}/{{sourceName}} 
+
+###
+#@name addNew
+POST {{baseURL}}/{{sourceName}}
+Content-Type: application/json
+
+{
+  "name": "May dao", 
+  "price": 20000
+}
+
+###
+#@name update 
+PUT {{baseURL}}/{{sourceName}}/1
+Content-Type: application/json
+
+{
+  "name": "May dao",
+  "price": 40000
+}
+
+###
+#filter
+GET {{baseURL}}/{{sourceName}}?name_like=intel
+
+###
+#paginations
+GET {{baseURL}}/{{sourceName}}?_page=1&_limit=18
+
+###
+#sorted
+GET {{baseURL}}/{{sourceName}}?_sort=stars&_order=desc&_limit=18
+
+###
+GET {{baseURL}}/{{sourceName}}?_sort=name&_order=asc
+###
+GET {{baseURL}}/{{sourceName}}?stars_like=3&_limit=3
