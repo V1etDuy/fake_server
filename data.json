@@ -1,2116 +1,245 @@
 {
-  "product": [
+  "products": [
     {
       "id": 1,
-      "name": "Bentley-BL2096-152WWI-ok1",
-      "category": "Mechanical watches",
-      "brand": "Bentley",
-      "size": [
-        42
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-      ],
-      "priceOld": "130",
-      "priceNew": "120",
-      "rating": 3,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-      "image2": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-      "image3": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg"
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
     },
     {
       "id": 2,
-      "name": "Bentley-BL2096-152KBI-S",
-      "category": "Mechanical watches",
-      "brand": "Bentley",
-      "size": [
-        38,
-        40,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": "1203",
-      "rating": "4",
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male",
-        "Vip watches",
-        "mid-range watches"
-      ],
-      "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-      "image2": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-      "image3": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
     },
     {
       "id": 3,
-      "name": "Bentley-BL1822-252KBI-S-2",
-      "category": "Mechanical watches",
-      "brand": "Bentley",
-      "size": [
-        38,
-        40,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-2.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch."
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
     },
     {
       "id": 4,
-      "name": "Bentley-BL1796-302TCI-S-1",
-      "category": "Mechanical watches",
-      "brand": "Bentley",
-      "size": [
-        38,
-        40,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/03/Bentley-BL1796-302TCI-S-1.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_2.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch."
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
     },
     {
       "id": 5,
-      "name": "Bentley-BL1784-302KCD-1",
-      "category": "Mechanical watches",
-      "brand": "Bentley",
-      "size": [
-        38,
-        40,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/03/Bentley-BL1784-302KCD-1.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_4.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_3.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch."
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
     },
     {
       "id": 6,
-      "name": "Bentley-BL1784-202WCB-S-2",
-      "category": "Mechanical watches",
-      "brand": "Bentley",
-      "size": [
-        38,
-        40,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/03/Bentley-BL1784-202WCB-S-2.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-3.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-4.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch."
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
     },
     {
       "id": 7,
-      "name": "GSHOCK-GST-S110-1ADR",
-      "category": "Battery watch",
-      "brand": "GSHOCK",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/03/GSHOCK-GST-S110-1ADR-1000x1000_2.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1BDR-1000x1000_2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1BDR-1000x1000.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1BDR-1000x1000_9.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "mid-range watches",
-        "male"
-      ],
-      "description": "G-SHOCK GA-700-1ADR như chiến binh Samurai Nhật Bản – một trong những đồng hồ thể thao mạnh mẽ thể hiện sự năng động, cá tính hàng đồng thể giới được thiết kế chắc chắn và có khẳ năng chống nước tối đa, chống chịu chịu va đập cực cao, luôn luôn là sự lựa chọn hàng đầu, là sự kết hợp hoàn hảo những công nghệ mới về sự vững chắc, kiểu dáng và phong cách thời trang. Đồng Hồ Tuấn Hưng là đơn vị phân phối chính hãng dòng sản phẩm G-SHOCK chất lượng và uy tín."
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
     },
     {
       "id": 8,
-      "name": "GSHOCK-GA-1100RG-1ADR",
-      "category": "Battery watch",
-      "brand": "GSHOCK",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-1100RG-1ADR-1000x1000_1.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1BDR-1000x1000_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1BDR-1000x1000_7.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/04/hop-gshock-600x600.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "mid-range watches",
-        "male"
-      ],
-      "description": "G-SHOCK GA-700-1ADR như chiến binh Samurai Nhật Bản – một trong những đồng hồ thể thao mạnh mẽ thể hiện sự năng động, cá tính hàng đồng thể giới được thiết kế chắc chắn và có khẳ năng chống nước tối đa, chống chịu chịu va đập cực cao, luôn luôn là sự lựa chọn hàng đầu, là sự kết hợp hoàn hảo những công nghệ mới về sự vững chắc, kiểu dáng và phong cách thời trang. Đồng Hồ Tuấn Hưng là đơn vị phân phối chính hãng dòng sản phẩm G-SHOCK chất lượng và uy tín."
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
     },
     {
       "id": 9,
-      "name": "GSHOCK-GA-710B-1A9DR-1000",
-      "category": "Battery watch",
-      "brand": "GSHOCK",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-710B-1A9DR-1000x1000_3.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000_3.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/,06/GSHOCK-GA-700-1ADR-1000x1000_4.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000_9.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "mid-range watches",
-        "male"
-      ],
-      "description": "G-SHOCK GA-700-1ADR như chiến binh Samurai Nhật Bản – một trong những đồng hồ thể thao mạnh mẽ thể hiện sự năng động, cá tính hàng đồng thể giới được thiết kế chắc chắn và có khẳ năng chống nước tối đa, chống chịu chịu va đập cực cao, luôn luôn là sự lựa chọn hàng đầu, là sự kết hợp hoàn hảo những công nghệ mới về sự vững chắc, kiểu dáng và phong cách thời trang. Đồng Hồ Tuấn Hưng là đơn vị phân phối chính hãng dòng sản phẩm G-SHOCK chất lượng và uy tín."
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
     },
     {
       "id": 10,
-      "name": "G-SHOCK-GA-700-4A-1000",
-      "category": "Battery watch",
-      "brand": "GSHOCK",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1BDR-1000x1000_2.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000_9.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000_1.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "mid-range watches",
-        "male"
-      ],
-      "description": "G-SHOCK GA-700-1ADR như chiến binh Samurai Nhật Bản – một trong những đồng hồ thể thao mạnh mẽ thể hiện sự năng động, cá tính hàng đồng thể giới được thiết kế chắc chắn và có khẳ năng chống nước tối đa, chống chịu chịu va đập cực cao, luôn luôn là sự lựa chọn hàng đầu, là sự kết hợp hoàn hảo những công nghệ mới về sự vững chắc, kiểu dáng và phong cách thời trang. Đồng Hồ Tuấn Hưng là đơn vị phân phối chính hãng dòng sản phẩm G-SHOCK chất lượng và uy tín."
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
     },
     {
       "id": 11,
-      "name": "GSHOCK-GA-700-1ADR-1000",
-      "category": "Battery watch",
-      "brand": "GSHOCK",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000_3.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000_4.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000_9.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "mid-range watches",
-        "male"
-      ],
-      "description": "G-SHOCK GA-700-1ADR như chiến binh Samurai Nhật Bản – một trong những đồng hồ thể thao mạnh mẽ thể hiện sự năng động, cá tính hàng đồng thể giới được thiết kế chắc chắn và có khẳ năng chống nước tối đa, chống chịu chịu va đập cực cao, luôn luôn là sự lựa chọn hàng đầu, là sự kết hợp hoàn hảo những công nghệ mới về sự vững chắc, kiểu dáng và phong cách thời trang. Đồng Hồ Tuấn Hưng là đơn vị phân phối chính hãng dòng sản phẩm G-SHOCK chất lượng và uy tín.",
-      "image2": "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000_9.jpg",
-      "image3": "https://donghotuanhung.com/wp-content/uploads/2019/06/GSHOCK-GA-700-1ADR-1000x1000.jpg"
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
     },
     {
       "id": 12,
-      "name": "Orient-Sun-Moon-Gen-3-V",
-      "category": "Mechanical watches",
-      "brand": "Orient",
-      "size": [
-        40,
-        42
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_8.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-web.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-web_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-web_4.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "Vip watches",
-        "male"
-      ],
-      "description": "Đồng hồ Orient là một thương hiệu đồng hồ Nhật Bản nổi tiếng hàng đầu trên thế giới, cỗ máy thời gian được sản xuất chất lượng đã chinh phục người hâm mộ ở thiết kế bề ngoài lịch lãm, sang trọng mà nó còn để lại ấn tượng sâu sắc ở bộ máy với sự bền bỉ và ổn định tuyệt vời."
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
     },
     {
       "id": 13,
-      "name": "Orient-Sun-Moon-Gen-3",
-      "category": "Mechanical watches",
-      "brand": "Orient",
-      "size": [
-        40,
-        42
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_7.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-web_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-web_4.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-web_2.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "Vip watches",
-        "male"
-      ],
-      "description": "Đồng hồ Orient là một thương hiệu đồng hồ Nhật Bản nổi tiếng hàng đầu trên thế giới, cỗ máy thời gian được sản xuất chất lượng đã chinh phục người hâm mộ ở thiết kế bề ngoài lịch lãm, sang trọng mà nó còn để lại ấn tượng sâu sắc ở bộ máy với sự bền bỉ và ổn định tuyệt vời."
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
     },
     {
       "id": 14,
-      "name": "SUN-and-MOON-Gen-3-SAK00001Y0-1",
-      "category": "Mechanical watches",
-      "brand": "Orient",
-      "size": [
-        40,
-        42
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2019/03/SUN-and-MOON-Gen-3-SAK00001Y0-1-300x300.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B03L19B-shop_2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B03L19B-shop.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B03L19B-shop_4.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "Vip watches",
-        "male"
-      ],
-      "description": "Đồng hồ Orient là một thương hiệu đồng hồ Nhật Bản nổi tiếng hàng đầu trên thế giới, cỗ máy thời gian được sản xuất chất lượng đã chinh phục người hâm mộ ở thiết kế bề ngoài lịch lãm, sang trọng mà nó còn để lại ấn tượng sâu sắc ở bộ máy với sự bền bỉ và ổn định tuyệt vời."
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
     },
     {
       "id": 15,
-      "name": "Orient-SE-RA-AG0430S00B",
-      "category": "Mechanical watches",
-      "brand": "Orient",
-      "size": [
-        40,
-        42
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2019/12/Orient-SE-RA-AG0430S00B_1000x1000.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B03L19B-shop_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B03L19B-shop_3.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B03L19B-shop_2.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "Vip watches",
-        "male"
-      ],
-      "description": "Đồng hồ Orient là một thương hiệu đồng hồ Nhật Bản nổi tiếng hàng đầu trên thế giới, cỗ máy thời gian được sản xuất chất lượng đã chinh phục người hâm mộ ở thiết kế bề ngoài lịch lãm, sang trọng mà nó còn để lại ấn tượng sâu sắc ở bộ máy với sự bền bỉ và ổn định tuyệt vời."
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
     },
     {
       "id": 16,
-      "name": "Orient-SE-RA-AG0726S00B",
-      "category": "Mechanical watches",
-      "brand": "Orient",
-      "size": [
-        40,
-        42
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2019/12/Orient-SE-RA-AG0726S00B_1000x1000.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B01G19B-shop.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B01G19B-shop_2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B01G19B-shop_4.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "Vip watches",
-        "male"
-      ],
-      "description": "Đồng hồ Orient là một thương hiệu đồng hồ Nhật Bản nổi tiếng hàng đầu trên thế giới, cỗ máy thời gian được sản xuất chất lượng đã chinh phục người hâm mộ ở thiết kế bề ngoài lịch lãm, sang trọng mà nó còn để lại ấn tượng sâu sắc ở bộ máy với sự bền bỉ và ổn định tuyệt vời."
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
     },
     {
       "id": 17,
-      "name": "Orient-SE-RA-AG0431L00B",
-      "category": "Mechanical watches",
-      "brand": "Orient",
-      "size": [
-        40,
-        42
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2019/12/Orient-SE-RA-AG0431L00B_1000x1000.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B01G19B-shop_2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B01G19B-shop_4.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/10/-----ng-h----Orient-SK-RA-AA0B01G19B-shop_3.jpg"
-      ],
-      "priceOld": 1300,
-      "priceNew": 1200,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "Vip watches",
-        "male"
-      ],
-      "description": "Đồng hồ Orient là một thương hiệu đồng hồ Nhật Bản nổi tiếng hàng đầu trên thế giới, cỗ máy thời gian được sản xuất chất lượng đã chinh phục người hâm mộ ở thiết kế bề ngoài lịch lãm, sang trọng mà nó còn để lại ấn tượng sâu sắc ở bộ máy với sự bền bỉ và ổn định tuyệt vời."
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
     },
     {
       "id": 18,
-      "name": "Freelook-FL.1.10070",
-      "category": "Battery watch",
-      "brand": "Freelook",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10070.1-web.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_10.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_5.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_11.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "popular female",
-        "female"
-      ],
-      "description": "Đồng hồ Freelook là một trong những dòng đồng thời trang bán chạy nhất nước Pháp và một vài năm trở lại đã chính thức có mặt tại thị trường Việt Nam, nằm trong phân khúc từ 1-2 triệu đồng với đa dạng mẫu mã và màu sắc đầy cuốn hút làm nức lòng chị em phụ nữ. Với đa phong cách thì đồng hồ nữ Freelook thực sự là một bảo bối thời trang – trang sức cho phái đẹp thêm tự tin và tỏa hương sắc. Đồng Hồ Tuấn Hưng là đơn vị phân sản phẩm đồng hồ Free look trên toàn quốc."
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
     },
     {
       "id": 19,
-      "name": "Freelook-FL.1.10046.1",
-      "category": "Battery watch",
-      "brand": "Freelook",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10046.1-web.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_10.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_5.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_11.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "popular female",
-        "female"
-      ],
-      "description": "Đồng hồ Freelook là một trong những dòng đồng thời trang bán chạy nhất nước Pháp và một vài năm trở lại đã chính thức có mặt tại thị trường Việt Nam, nằm trong phân khúc từ 1-2 triệu đồng với đa dạng mẫu mã và màu sắc đầy cuốn hút làm nức lòng chị em phụ nữ. Với đa phong cách thì đồng hồ nữ Freelook thực sự là một bảo bối thời trang – trang sức cho phái đẹp thêm tự tin và tỏa hương sắc. Đồng Hồ Tuấn Hưng là đơn vị phân sản phẩm đồng hồ Free look trên toàn quốc."
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
     },
     {
       "id": 20,
-      "name": "Freelook-FL.2.10150-3",
-      "category": "Battery watch",
-      "brand": "Freelook",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.2.10150-3-web.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2019/12/Orient-SE-RA-AG0431L00B_1000x1000.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/12/Orient-SE-RA-AG0431L00B_1000x1000_01.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/12/Orient-SE-RA-AG0431L00B_1000x1000_02.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "popular female",
-        "female"
-      ],
-      "description": "Đồng hồ Freelook là một trong những dòng đồng thời trang bán chạy nhất nước Pháp và một vài năm trở lại đã chính thức có mặt tại thị trường Việt Nam, nằm trong phân khúc từ 1-2 triệu đồng với đa dạng mẫu mã và màu sắc đầy cuốn hút làm nức lòng chị em phụ nữ. Với đa phong cách thì đồng hồ nữ Freelook thực sự là một bảo bối thời trang – trang sức cho phái đẹp thêm tự tin và tỏa hương sắc. Đồng Hồ Tuấn Hưng là đơn vị phân sản phẩm đồng hồ Free look trên toàn quốc."
-    },
-    {
-      "id": 21,
-      "name": "Freelook-FL.2.10151",
-      "category": "Battery watch",
-      "brand": "Freelook",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.2.10151.4-web.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2019/12/Orient-SE-RA-AG0431L00B_1000x1000_01.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/12/Orient-SE-RA-AG0431L00B_1000x1000_02.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2019/12/Orient-SE-RA-AG0431L00B_1000x1000_03.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "popular female",
-        "female"
-      ],
-      "description": "Đồng hồ Freelook là một trong những dòng đồng thời trang bán chạy nhất nước Pháp và một vài năm trở lại đã chính thức có mặt tại thị trường Việt Nam, nằm trong phân khúc từ 1-2 triệu đồng với đa dạng mẫu mã và màu sắc đầy cuốn hút làm nức lòng chị em phụ nữ. Với đa phong cách thì đồng hồ nữ Freelook thực sự là một bảo bối thời trang – trang sức cho phái đẹp thêm tự tin và tỏa hương sắc. Đồng Hồ Tuấn Hưng là đơn vị phân sản phẩm đồng hồ Free look trên toàn quốc."
-    },
-    {
-      "id": 22,
-      "name": "Freelook-FL.2.10151.3",
-      "category": "Battery watch",
-      "brand": "Freelook",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.2.10151.3-web-chuan-3.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10070.1-web_2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10070.1-web_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10070.1-web_4.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "popular female",
-        "female"
-      ],
-      "description": "Đồng hồ Freelook là một trong những dòng đồng thời trang bán chạy nhất nước Pháp và một vài năm trở lại đã chính thức có mặt tại thị trường Việt Nam, nằm trong phân khúc từ 1-2 triệu đồng với đa dạng mẫu mã và màu sắc đầy cuốn hút làm nức lòng chị em phụ nữ. Với đa phong cách thì đồng hồ nữ Freelook thực sự là một bảo bối thời trang – trang sức cho phái đẹp thêm tự tin và tỏa hương sắc. Đồng Hồ Tuấn Hưng là đơn vị phân sản phẩm đồng hồ Free look trên toàn quốc."
-    },
-    {
-      "id": 23,
-      "name": "Freelook-FL.1.10113.4",
-      "category": "Battery watch",
-      "brand": "Freelook",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10113.4-web.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10070.1-web.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10070.1-web_2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10070.1-web_1.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "popular female",
-        "female"
-      ],
-      "description": "Đồng hồ Freelook là một trong những dòng đồng thời trang bán chạy nhất nước Pháp và một vài năm trở lại đã chính thức có mặt tại thị trường Việt Nam, nằm trong phân khúc từ 1-2 triệu đồng với đa dạng mẫu mã và màu sắc đầy cuốn hút làm nức lòng chị em phụ nữ. Với đa phong cách thì đồng hồ nữ Freelook thực sự là một bảo bối thời trang – trang sức cho phái đẹp thêm tự tin và tỏa hương sắc. Đồng Hồ Tuấn Hưng là đơn vị phân sản phẩm đồng hồ Free look trên toàn quốc."
-    },
-    {
-      "id": 24,
-      "name": "vertu-V01G-02-C13ER",
-      "category": "Mechanical watches",
-      "brand": "Vertu",
-      "size": [
-        40,
-        42,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-V01G-02-C13ER.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-V01G-02-C13ER.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-V01G-02-C13ER_5.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-V01G-02-C13ER_7.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Đồng hồ Vertu dành cho dân chơi thứ thiệt siêu sang lần đầu tiên đã xuất hiện tại Việt Nam. Một siêu phẩm ra mắt mãn nhãn giới mộ điệu đồng hồ với một phong cách chuẩn Vertu không lẫn đi đâu được. Ra đời từ niềm cảm hứng Vertu Signature S đình đám, thiết kế diện mạo khuôn hình chữ nhật khá đặc biệt với ý tưởng tấm khiên hình lục giác, máy cơ Thụy Sĩ Inhouse lộ máy mạnh mẽ và cuốn hút. Sản phẩm không dành cho số đông chỉ thực sự dành cho người đam mê đồng hồ thật sự, để sở hữu em nó thật xứng đáng ” đồng tiền bát gạo “."
-    },
-    {
-      "id": 25,
-      "name": "vertu-v01g-01-z18er",
-      "category": "Mechanical watches",
-      "brand": "Vertu",
-      "size": [
-        40,
-        42,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-v01g-01-z18er.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-V01G-02-C13ER_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-V01G-02-C13ER_2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-V01G-02-C13ER_4.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Đồng hồ Vertu dành cho dân chơi thứ thiệt siêu sang lần đầu tiên đã xuất hiện tại Việt Nam. Một siêu phẩm ra mắt mãn nhãn giới mộ điệu đồng hồ với một phong cách chuẩn Vertu không lẫn đi đâu được. Ra đời từ niềm cảm hứng Vertu Signature S đình đám, thiết kế diện mạo khuôn hình chữ nhật khá đặc biệt với ý tưởng tấm khiên hình lục giác, máy cơ Thụy Sĩ Inhouse lộ máy mạnh mẽ và cuốn hút. Sản phẩm không dành cho số đông chỉ thực sự dành cho người đam mê đồng hồ thật sự, để sở hữu em nó thật xứng đáng ” đồng tiền bát gạo “."
-    },
-    {
-      "id": 26,
-      "name": "vertu-V01G-01-P14ER",
-      "category": "Mechanical watches",
-      "brand": "Vertu",
-      "size": [
-        40,
-        42,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-V01G-01-P14ER.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-v01g-01-z18er.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-v01g-01-z18er_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-v01g-01-z18er_2.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Đồng hồ Vertu dành cho dân chơi thứ thiệt siêu sang lần đầu tiên đã xuất hiện tại Việt Nam. Một siêu phẩm ra mắt mãn nhãn giới mộ điệu đồng hồ với một phong cách chuẩn Vertu không lẫn đi đâu được. Ra đời từ niềm cảm hứng Vertu Signature S đình đám, thiết kế diện mạo khuôn hình chữ nhật khá đặc biệt với ý tưởng tấm khiên hình lục giác, máy cơ Thụy Sĩ Inhouse lộ máy mạnh mẽ và cuốn hút. Sản phẩm không dành cho số đông chỉ thực sự dành cho người đam mê đồng hồ thật sự, để sở hữu em nó thật xứng đáng ” đồng tiền bát gạo “."
-    },
-    {
-      "id": 27,
-      "name": "vertu-V01G-01-P13ER",
-      "category": "Mechanical watches",
-      "brand": "Vertu",
-      "size": [
-        40,
-        42,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-V01G-01-P13ER-0.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-v01g-01-z18er_5.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-v01g-01-z18er_3.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-v01g-01-z18er_4.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Đồng hồ Vertu dành cho dân chơi thứ thiệt siêu sang lần đầu tiên đã xuất hiện tại Việt Nam. Một siêu phẩm ra mắt mãn nhãn giới mộ điệu đồng hồ với một phong cách chuẩn Vertu không lẫn đi đâu được. Ra đời từ niềm cảm hứng Vertu Signature S đình đám, thiết kế diện mạo khuôn hình chữ nhật khá đặc biệt với ý tưởng tấm khiên hình lục giác, máy cơ Thụy Sĩ Inhouse lộ máy mạnh mẽ và cuốn hút. Sản phẩm không dành cho số đông chỉ thực sự dành cho người đam mê đồng hồ thật sự, để sở hữu em nó thật xứng đáng ” đồng tiền bát gạo “."
-    },
-    {
-      "id": 28,
-      "name": "vertu-v01g-01-p11ey",
-      "category": "Mechanical watches",
-      "brand": "Vertu",
-      "size": [
-        40,
-        42,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-v01g-01-p11ey.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-V01G-01-P13ER_2.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-V01G-01-P13ER_3.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-V01G-01-P13ER_5.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Đồng hồ Vertu dành cho dân chơi thứ thiệt siêu sang lần đầu tiên đã xuất hiện tại Việt Nam. Một siêu phẩm ra mắt mãn nhãn giới mộ điệu đồng hồ với một phong cách chuẩn Vertu không lẫn đi đâu được. Ra đời từ niềm cảm hứng Vertu Signature S đình đám, thiết kế diện mạo khuôn hình chữ nhật khá đặc biệt với ý tưởng tấm khiên hình lục giác, máy cơ Thụy Sĩ Inhouse lộ máy mạnh mẽ và cuốn hút. Sản phẩm không dành cho số đông chỉ thực sự dành cho người đam mê đồng hồ thật sự, để sở hữu em nó thật xứng đáng ” đồng tiền bát gạo “."
-    },
-    {
-      "id": 29,
-      "name": "vertu-C19A-1000-1110-8",
-      "category": "Mechanical watches",
-      "brand": "Vertu",
-      "size": [
-        40,
-        42,
-        46
-      ],
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-vertu-C19A-1000-1110-8.jpg",
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-V01G-01-P13ER-0.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-V01G-01-P13ER_4.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2020/06/dong-ho-V01G-01-P13ER_1.jpg"
-      ],
-      "priceOld": 135,
-      "priceNew": 122,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "luxury",
-        "hot",
-        "male"
-      ],
-      "description": "Đồng hồ Vertu dành cho dân chơi thứ thiệt siêu sang lần đầu tiên đã xuất hiện tại Việt Nam. Một siêu phẩm ra mắt mãn nhãn giới mộ điệu đồng hồ với một phong cách chuẩn Vertu không lẫn đi đâu được. Ra đời từ niềm cảm hứng Vertu Signature S đình đám, thiết kế diện mạo khuôn hình chữ nhật khá đặc biệt với ý tưởng tấm khiên hình lục giác, máy cơ Thụy Sĩ Inhouse lộ máy mạnh mẽ và cuốn hút. Sản phẩm không dành cho số đông chỉ thực sự dành cho người đam mê đồng hồ thật sự, để sở hữu em nó thật xứng đáng ” đồng tiền bát gạo “."
-    },
-    {
-      "id": 30,
-      "name": "watch-se-lte-silver-loop",
-      "category": "Smart watch",
-      "brand": "Apple",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://hoanghamobile.com/i/productlist/ts/Uploads/2021/01/12/watch-se-lte-silver-loop.png",
-      "image": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJGE3ref_VW_34FR+watch-40-alum-silver-nc-se_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617228869000,1623883744000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJGE3ref_VW_PF+watch-40-alum-silver-nc-se_VW_PF_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617228885000,1623883741000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJGE3ref?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617407564000"
-      ],
-      "priceOld": 500,
-      "priceNew": 490,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế của Apple Watch mang phong cách trẻ trung, thời thượng và như những gì các thiết bị smartphone hay iPad đem lại thì các sản phẩm đồng hồ thông minh cũng của Apple cũng được người dùng đánh giá cao bởi đẳng cấp hoàn toàn khác biệt trên thị trường. Được Apple chăm chút vô cùng tỉ mỉ, Apple Watch sở hữu những gì tốt nhất, hiện đại nhất. Chất liệu được làm chủ yếu từ thép không gỉ, nhôm hay vàng 18 karat tùy sản phẩm. Như vậy, chỉ riêng về chất liệu đồng hồ thông minh của Apple đã “ăn đứt” các thương hiệu khác. Tính năng của các sản phẩm này luôn rất thông minh khi dẫn đầu mọi xu hướng mới nhất và đáp ứng tốt nhất mọi nhu cầu của người sử dụng. "
-    },
-    {
-      "id": 31,
-      "name": "se-lte-silver",
-      "category": "Smart watch",
-      "brand": "Apple",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://hoanghamobile.com/i/productlist/ts/Uploads/2021/01/12/se-lte-silver.png",
-      "image": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJFT3_VW_34FR+watch-40-alum-spacegray-nc-se_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617228545000,1617299155000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJFT3_VW_PF+watch-40-alum-spacegray-nc-se_VW_PF_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617228504000,1617299166000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJFT3?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617672643000"
-      ],
-      "priceOld": 500,
-      "priceNew": 490,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế của Apple Watch mang phong cách trẻ trung, thời thượng và như những gì các thiết bị smartphone hay iPad đem lại thì các sản phẩm đồng hồ thông minh cũng của Apple cũng được người dùng đánh giá cao bởi đẳng cấp hoàn toàn khác biệt trên thị trường. Được Apple chăm chút vô cùng tỉ mỉ, Apple Watch sở hữu những gì tốt nhất, hiện đại nhất. Chất liệu được làm chủ yếu từ thép không gỉ, nhôm hay vàng 18 karat tùy sản phẩm. Như vậy, chỉ riêng về chất liệu đồng hồ thông minh của Apple đã “ăn đứt” các thương hiệu khác. Tính năng của các sản phẩm này luôn rất thông minh khi dẫn đầu mọi xu hướng mới nhất và đáp ứng tốt nhất mọi nhu cầu của người sử dụng. "
-    },
-    {
-      "id": 32,
-      "name": "se-lte-gray",
-      "category": "Smart watch",
-      "brand": "Apple",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://hoanghamobile.com/i/productlist/ts/Uploads/2021/01/12/se-lte-gray.png",
-      "image": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJK33_VW_34FR+watch-40-alum-gold-nc-se_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617229186000,1623883751000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJK33_VW_PF+watch-40-alum-gold-nc-se_VW_PF_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617229173000,1623883738000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJK33?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617407528000"
-      ],
-      "priceOld": 500,
-      "priceNew": 490,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế của Apple Watch mang phong cách trẻ trung, thời thượng và như những gì các thiết bị smartphone hay iPad đem lại thì các sản phẩm đồng hồ thông minh cũng của Apple cũng được người dùng đánh giá cao bởi đẳng cấp hoàn toàn khác biệt trên thị trường. Được Apple chăm chút vô cùng tỉ mỉ, Apple Watch sở hữu những gì tốt nhất, hiện đại nhất. Chất liệu được làm chủ yếu từ thép không gỉ, nhôm hay vàng 18 karat tùy sản phẩm. Như vậy, chỉ riêng về chất liệu đồng hồ thông minh của Apple đã “ăn đứt” các thương hiệu khác. Tính năng của các sản phẩm này luôn rất thông minh khi dẫn đầu mọi xu hướng mới nhất và đáp ứng tốt nhất mọi nhu cầu của người sử dụng. "
-    },
-    {
-      "id": 33,
-      "name": "se-44",
-      "category": "Smart watch",
-      "brand": "Apple",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://hoanghamobile.com/i/productlist/ts/Uploads/2020/11/04/se-44.png",
-      "image": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJFT3_VW_PF+watch-40-alum-spacegray-nc-se_VW_PF_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617228504000,1617299166000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJFT3?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617672643000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJK33_VW_34FR+watch-40-alum-gold-nc-se_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617229186000,1623883751000"
-      ],
-      "priceOld": 500,
-      "priceNew": 490,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế của Apple Watch mang phong cách trẻ trung, thời thượng và như những gì các thiết bị smartphone hay iPad đem lại thì các sản phẩm đồng hồ thông minh cũng của Apple cũng được người dùng đánh giá cao bởi đẳng cấp hoàn toàn khác biệt trên thị trường. Được Apple chăm chút vô cùng tỉ mỉ, Apple Watch sở hữu những gì tốt nhất, hiện đại nhất. Chất liệu được làm chủ yếu từ thép không gỉ, nhôm hay vàng 18 karat tùy sản phẩm. Như vậy, chỉ riêng về chất liệu đồng hồ thông minh của Apple đã “ăn đứt” các thương hiệu khác. Tính năng của các sản phẩm này luôn rất thông minh khi dẫn đầu mọi xu hướng mới nhất và đáp ứng tốt nhất mọi nhu cầu của người sử dụng. "
-    },
-    {
-      "id": 34,
-      "name": "watch-se-40",
-      "category": "Smart watch",
-      "brand": "Apple",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://hoanghamobile.com/i/productlist/ts/Uploads/2020/11/04/se-40.png",
-      "image": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJGE3ref_VW_PF+watch-40-alum-silver-nc-se_VW_PF_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617228885000,1623883741000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJGE3ref?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617407564000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJFT3_VW_34FR+watch-40-alum-spacegray-nc-se_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617228545000,1617299155000"
-      ],
-      "priceOld": 500,
-      "priceNew": 490,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế của Apple Watch mang phong cách trẻ trung, thời thượng và như những gì các thiết bị smartphone hay iPad đem lại thì các sản phẩm đồng hồ thông minh cũng của Apple cũng được người dùng đánh giá cao bởi đẳng cấp hoàn toàn khác biệt trên thị trường. Được Apple chăm chút vô cùng tỉ mỉ, Apple Watch sở hữu những gì tốt nhất, hiện đại nhất. Chất liệu được làm chủ yếu từ thép không gỉ, nhôm hay vàng 18 karat tùy sản phẩm. Như vậy, chỉ riêng về chất liệu đồng hồ thông minh của Apple đã “ăn đứt” các thương hiệu khác. Tính năng của các sản phẩm này luôn rất thông minh khi dẫn đầu mọi xu hướng mới nhất và đáp ứng tốt nhất mọi nhu cầu của người sử dụng. "
-    },
-    {
-      "id": 35,
-      "name": "s6-44-lte-stan",
-      "category": "Smart watch",
-      "brand": "Apple",
-      "size": [
-        38,
-        40
-      ],
-      "imageMain": "https://hoanghamobile.com/i/productlist/ts/Uploads/2020/11/04/s6-44-lte-stan.png",
-      "image": [
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJGE3ref?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617407564000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJFT3_VW_34FR+watch-40-alum-spacegray-nc-se_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617228545000,1617299155000",
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJFT3_VW_PF+watch-40-alum-spacegray-nc-se_VW_PF_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1617228504000,1617299166000"
-      ],
-      "priceOld": 500,
-      "priceNew": 490,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế của Apple Watch mang phong cách trẻ trung, thời thượng và như những gì các thiết bị smartphone hay iPad đem lại thì các sản phẩm đồng hồ thông minh cũng của Apple cũng được người dùng đánh giá cao bởi đẳng cấp hoàn toàn khác biệt trên thị trường. Được Apple chăm chút vô cùng tỉ mỉ, Apple Watch sở hữu những gì tốt nhất, hiện đại nhất. Chất liệu được làm chủ yếu từ thép không gỉ, nhôm hay vàng 18 karat tùy sản phẩm. Như vậy, chỉ riêng về chất liệu đồng hồ thông minh của Apple đã “ăn đứt” các thương hiệu khác. Tính năng của các sản phẩm này luôn rất thông minh khi dẫn đầu mọi xu hướng mới nhất và đáp ứng tốt nhất mọi nhu cầu của người sử dụng. "
-    },
-    {
-      "id": 36,
-      "name": "galaxy-fit2-r220-sm-r220",
-      "category": "Smart watch",
-      "brand": "Samsung",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "//images.samsung.com/is/image/samsung/p6pim/vn/sm-r220nzraxev/gallery/vn-galaxy-fit2-r220-sm-r220nzraxev-thumb-344727112?$160_160_PNG$",
-      "image": [
-        "https://www.mainguyen.vn/img/2020/11/product/colors/l/Galaxy_Fit2_Black_l_side.jpg",
-        "https://www.mainguyen.vn/img/2020/11/product/colors/l/samsung-galaxy-fit2-4.jpg",
-        "https://www.mainguyen.vn/img/2020/11/product/colors/l/samsung-galaxy-fit2-1.jpg"
-      ],
-      "priceOld": 300,
-      "priceNew": 450,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế tinh tế, đậm chất cổ điển Theo dõi sức khỏe vượt trội với công nghệ cải tiến Nghe nhạc đỉnh cao, nhận thông báo nhanh chóng"
-    },
-    {
-      "id": 37,
-      "name": "galaxy_watch3_45mm_black",
-      "category": "Smart watch",
-      "brand": "Samsung",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "//images.samsung.com/is/image/samsung/assets/vn/p6_gro2/p6_initial_pf/watches/pf_galaxy_watch3_45mm_black_pc_png.jpg?$ORIGIN_JPG$",
-      "image": [
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-7.jpg",
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-8.jpg",
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-9.jpg"
-      ],
-      "priceOld": 300,
-      "priceNew": 450,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế tinh tế, đậm chất cổ điển Theo dõi sức khỏe vượt trội với công nghệ cải tiến Nghe nhạc đỉnh cao, nhận thông báo nhanh chóng"
-    },
-    {
-      "id": 38,
-      "name": "galaxy-watch3-r840",
-      "category": "Smart watch",
-      "brand": "Samsung",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "//images.samsung.com/is/image/samsung/vn/galaxy-note20/gallery/vn-galaxy-watch3-r840-sm-r840nzkaxxv-frontmysticblack-thumb-275057839?$160_160_PNG$",
-      "image": [
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-10.jpg",
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-11.jpg",
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/vn-galaxy-watch3-r840-sm-r840nzs--5-.jpg"
-      ],
-      "priceOld": 300,
-      "priceNew": 450,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế tinh tế, đậm chất cổ điển Theo dõi sức khỏe vượt trội với công nghệ cải tiến Nghe nhạc đỉnh cao, nhận thông báo nhanh chóng"
-    },
-    {
-      "id": 39,
-      "name": "galaxy-watch3-41mm",
-      "category": "Smart watch",
-      "brand": "Samsung",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/g/a/galaxy-watch3-41mm.jpg",
-      "image": [
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-1.jpg",
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-2.jpg",
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-3.jpg"
-      ],
-      "priceOld": 300,
-      "priceNew": 450,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế tinh tế, đậm chất cổ điển Theo dõi sức khỏe vượt trội với công nghệ cải tiến Nghe nhạc đỉnh cao, nhận thông báo nhanh chóng"
-    },
-    {
-      "id": 40,
-      "name": "wactch-2-lte-40mm",
-      "category": "Smart watch",
-      "brand": "Samsung",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/w/a/wactch-2-lte-40mm.jpg",
-      "image": [
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-9.jpg",
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-10.jpg",
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-11.jpg"
-      ],
-      "priceOld": 300,
-      "priceNew": 450,
-      "rating": 4,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế tinh tế, đậm chất cổ điển Theo dõi sức khỏe vượt trội với công nghệ cải tiến Nghe nhạc đỉnh cao, nhận thông báo nhanh chóng"
-    },
-    {
-      "id": 41,
-      "name": "wactch-2-lte-oke",
-      "category": "Smart watch",
-      "brand": "Samsung",
-      "size": [
-        38,
-        46
-      ],
-      "imageMain": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/w/a/wactch-2-lte.jpg",
-      "image": [
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/vn-galaxy-watch3-r840-sm-r840nzs--5-.jpg",
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-2.jpg",
-        "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-1.jpg"
-      ],
-      "priceOld": 300,
-      "priceNew": "120",
-      "rating": 3,
-      "number": 10,
-      "tag": [
-        "middle",
-        "male"
-      ],
-      "description": "Thiết kế tinh tế, đậm chất cổ điển Theo dõi sức khỏe vượt trội với công nghệ cải tiến Nghe nhạc đỉnh cao, nhận thông báo nhanh chóng",
-      "image2": "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-1.jpg",
-      "image3": "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-2.jpg"
-    },
-    {
-      "name": "dongho new",
-      "category": "Mechanical watches",
-      "brand": "Bentley",
-      "size": [
-        46
-      ],
-      "tag": [
-        "male",
-        "popular female"
-      ],
-      "image": [
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-        "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-      ],
-      "image2": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-      "image3": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-      "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-      "rating": "4",
-      "priceNew": "124",
-      "priceOld": "",
-      "createdAt": 1627898476135,
-      "updatedAt": 1627898476135,
-      "id": 42
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
     }
   ],
-  "categories": [
-    {
-      "name": "Mechanical watches",
-      "id": 1
-    },
-    {
-      "name": "clockwatcher",
-      "id": 2
-    },
-    {
-      "name": "Battery watch",
-      "id": 3
-    },
-    {
-      "name": "Smart watch",
-      "id": 4
-    }
-  ],
-  "brand": [
-    {
-      "id": 1,
-      "name": "Bentley"
-    },
-    {
-      "id": 2,
-      "name": "GSHOCK"
-    },
-    {
-      "id": 3,
-      "name": "Apple"
-    },
-    {
-      "id": 4,
-      "name": "Samsung"
-    },
-    {
-      "id": 5,
-      "name": "vertu"
-    },
-    {
-      "id": 6,
-      "name": "Freelook"
-    },
-    {
-      "id": 7,
-      "name": "Orient"
-    }
-  ],
-  "tags": [
-    "hot",
-    "female",
-    "luxury",
-    "male",
-    "mid-range watches",
-    "popular female",
-    "Vip watches",
-    "middle"
-  ],
-  "size": [
-    40,
-    38,
-    46,
-    42
-  ],
-  "comment": [
-    {
-      "rating": 1,
-      "comment": "khong ttot",
-      "idProduct": 41,
-      "userName": "admin",
-      "createdAt": 1627890295344,
-      "updatedAt": 1627890295344,
-      "id": 1
-    },
-    {
-      "rating": 1,
-      "comment": "ddd",
-      "idProduct": 41,
-      "userName": "admin",
-      "createdAt": 1627890364724,
-      "updatedAt": 1627890364724,
-      "id": 2
-    },
-    {
-      "rating": 1,
-      "comment": "dawd",
-      "idProduct": 42,
-      "userName": "admin",
-      "createdAt": 1627890410124,
-      "updatedAt": 1627890410124,
-      "id": 3
-    },
-    {
-      "rating": 2,
-      "comment": "d",
-      "idProduct": 41,
-      "userName": "admin",
-      "createdAt": 1627890437598,
-      "updatedAt": 1627890437598,
-      "id": 4
-    },
-    {
-      "rating": 1,
-      "comment": "da",
-      "idProduct": 41,
-      "userName": "admin",
-      "createdAt": 1627890610681,
-      "updatedAt": 1627890610681,
-      "id": 5
-    },
-    {
-      "rating": 1,
-      "comment": "da",
-      "idProduct": 41,
-      "userName": "admin",
-      "createdAt": 1627890625305,
-      "updatedAt": 1627890625305,
-      "id": 6
-    },
-    {
-      "rating": 4,
-      "comment": "d",
-      "idProduct": 41,
-      "userName": "admin",
-      "createdAt": 1627890846558,
-      "updatedAt": 1627890846558,
-      "id": 7
-    },
-    {
-      "rating": 2,
-      "comment": "jjjj",
-      "idProduct": 41,
-      "userName": "admin",
-      "createdAt": 1627890950761,
-      "updatedAt": 1627890950761,
-      "id": 8
-    },
-    {
-      "rating": 2,
-      "comment": "kk",
-      "idProduct": 41,
-      "userName": "admin",
-      "createdAt": 1627890966423,
-      "updatedAt": 1627890966423,
-      "id": 9
-    },
-    {
-      "rating": 1,
-      "comment": "pl",
-      "idProduct": 41,
-      "userName": "admin",
-      "createdAt": 1627890983050,
-      "updatedAt": 1627890983050,
-      "id": 10
-    },
-    {
-      "rating": 1,
-      "comment": "oke",
-      "idProduct": 1,
-      "userName": "admin",
-      "createdAt": 1627891654627,
-      "updatedAt": 1627891654627,
-      "id": 11
-    }
-  ],
-  "discount": [
-    {
-      "id": 1,
-      "quantity": 10,
-      "code": "discount5",
-      "discount": 5
-    },
-    {
-      "id": 2,
-      "quantity": 10,
-      "code": "discount7",
-      "discount": 7
-    }
-  ],
-  "orders": [
-    {
-      "email": "nguyenquocdung2810996@gmail.com",
-      "status": "DELIVERY",
-      "fullName": "Nguyễn Quốc Dũng",
-      "prefix": "85",
-      "phone": "0971934862",
-      "address": "HT",
-      "codeDiscount": null,
-      "cart": [
-        {
-          "id": 2,
-          "name": "Bentley-BL2096-152KBI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 6
-        }
-      ],
-      "totalCost": 7200,
-      "payMethod": "ATM",
-      "createdAt": 1627532607510,
-      "updatedAt": 1627532607510,
-      "id": 1
-    },
-    {
-      "email": "nguyenquocdung2810996@gmail.com",
-      "status": "NEW",
-      "fullName": "Nguyễn Quốc Dũng",
-      "prefix": "85",
-      "phone": "0971934862",
-      "address": "HT",
-      "codeDiscount": null,
-      "cart": [
-        {
-          "id": 2,
-          "name": "Bentley-BL2096-152KBI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        },
-        {
-          "id": 3,
-          "name": "Bentley-BL1822-252KBI-S-2",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-2.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        },
-        {
-          "id": 1,
-          "name": "Bentley-BL2096-152WWI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        },
-        {
-          "id": 4,
-          "name": "Bentley-BL1796-302TCI-S-1",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/03/Bentley-BL1796-302TCI-S-1.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_1.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_2.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        },
-        {
-          "id": 5,
-          "name": "Bentley-BL1784-302KCD-1",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/03/Bentley-BL1784-302KCD-1.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_4.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_3.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        },
-        {
-          "id": 6,
-          "name": "Bentley-BL1784-202WCB-S-2",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/03/Bentley-BL1784-202WCB-S-2.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-3.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-4.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        }
-      ],
-      "totalCost": 7200,
-      "payMethod": "ZaloPay",
-      "createdAt": 1627541478447,
-      "updatedAt": 1627541478447,
-      "id": 2
-    },
-    {
-      "email": "nguyenquocdung2810996@gmail.com",
-      "fullName": "Quốc Dũng",
-      "prefix": "85",
-      "phone": "0971934862",
-      "address": "HT",
-      "codeDiscount": null,
-      "status": "DELIVERY",
-      "cart": [
-        {
-          "id": 2,
-          "name": "Bentley-BL2096-152KBI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 2
-        },
-        {
-          "id": 3,
-          "name": "Bentley-BL1822-252KBI-S-2",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-2.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        },
-        {
-          "size": [
-            38,
-            40,
-            46
-          ],
-          "id": 1,
-          "name": "Bentley-BL2096-152WWI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        },
-        {
-          "id": 1,
-          "name": "Bentley-BL2096-152WWI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 2
-        },
-        {
-          "id": 1,
-          "name": "Bentley-BL2096-152WWI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 40,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 4
-        }
-      ],
-      "totalCost": 12000,
-      "payMethod": "ZaloPay",
-      "createdAt": 1627781515774,
-      "updatedAt": 1627781515774,
-      "id": 3
-    },
-    {
-      "email": "nguyenquocdung2810996@gmail.com",
-      "fullName": "Quốc Dũng",
-      "prefix": "85",
-      "phone": "0971934862",
-      "address": "HT",
-      "codeDiscount": "discount7",
-      "status": "RECEIVED",
-      "cart": [
-        {
-          "id": 2,
-          "name": "Bentley-BL2096-152KBI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        }
-      ],
-      "totalCost": 1116,
-      "payMethod": "visa-master",
-      "createdAt": 1627781572162,
-      "updatedAt": 1627781572162,
-      "id": 4
-    },
-    {
-      "email": "nguyenquocdung2810996@gmail.com",
-      "fullName": "Quốc Dũng",
-      "prefix": "85",
-      "phone": "0971934862",
-      "address": "HT",
-      "codeDiscount": null,
-      "status": "RECEIVED",
-      "cart": [
-        {
-          "id": 5,
-          "name": "Bentley-BL1784-302KCD-1",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/03/Bentley-BL1784-302KCD-1.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_4.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_3.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        }
-      ],
-      "totalCost": 1200,
-      "payMethod": "ZaloPay",
-      "createdAt": 1627781644549,
-      "updatedAt": 1627781644549,
-      "id": 5
-    },
-    {
-      "email": "nguyenquocdung2810996@gmail.com",
-      "fullName": "Quốc Dũng",
-      "prefix": "85",
-      "phone": "0971934862",
-      "address": "HT",
-      "codeDiscount": null,
-      "status": "NEW",
-      "cart": [
-        {
-          "id": 4,
-          "name": "Bentley-BL1796-302TCI-S-1",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/03/Bentley-BL1796-302TCI-S-1.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_1.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_2.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        }
-      ],
-      "totalCost": 1200,
-      "payMethod": "ATM",
-      "createdAt": 1627781795164,
-      "updatedAt": 1627781795164,
-      "id": 6
-    },
-    {
-      "email": "nguyenquocdung2810996@gmail.com",
-      "fullName": "Quốc Dũng",
-      "prefix": "85",
-      "phone": "0971934862",
-      "address": "HT",
-      "codeDiscount": null,
-      "status": "RECEIVED",
-      "cart": [
-        {
-          "id": 3,
-          "name": "Bentley-BL1822-252KBI-S-2",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-2.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL1822-252KBI-S-2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        },
-        {
-          "id": 2,
-          "name": "Bentley-BL2096-152KBI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 53
-        }
-      ],
-      "totalCost": 64800,
-      "payMethod": "ATM",
-      "createdAt": 1627781864816,
-      "updatedAt": 1627781864816,
-      "id": 7
-    },
-    {
-      "email": "nguyenquocdung2810996@gmail.com",
-      "fullName": "Quốc Dũng",
-      "prefix": "85",
-      "phone": "0971934862",
-      "address": "HT",
-      "codeDiscount": "discount5",
-      "status": "NEW",
-      "cart": [
-        {
-          "id": 4,
-          "name": "Bentley-BL1796-302TCI-S-1",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/03/Bentley-BL1796-302TCI-S-1.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_1.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_2.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 5
-        },
-        {
-          "size": [
-            38,
-            40,
-            46
-          ],
-          "id": 2,
-          "name": "Bentley-BL2096-152KBI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 4
-        },
-        {
-          "id": 18,
-          "name": "Freelook-FL.1.10070",
-          "category": "Battery watch",
-          "brand": "Freelook",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10070.1-web.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_10.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_5.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_11.jpg"
-          ],
-          "priceOld": 135,
-          "priceNew": 122,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "popular female",
-            "female"
-          ],
-          "description": "Đồng hồ Freelook là một trong những dòng đồng thời trang bán chạy nhất nước Pháp và một vài năm trở lại đã chính thức có mặt tại thị trường Việt Nam, nằm trong phân khúc từ 1-2 triệu đồng với đa dạng mẫu mã và màu sắc đầy cuốn hút làm nức lòng chị em phụ nữ. Với đa phong cách thì đồng hồ nữ Freelook thực sự là một bảo bối thời trang – trang sức cho phái đẹp thêm tự tin và tỏa hương sắc. Đồng Hồ Tuấn Hưng là đơn vị phân sản phẩm đồng hồ Free look trên toàn quốc.",
-          "count": 2
-        },
-        {
-          "id": 19,
-          "name": "Freelook-FL.1.10046.1",
-          "category": "Battery watch",
-          "brand": "Freelook",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2020/06/Freelook-FL.1.10046.1-web.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_10.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_5.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Orient-Sun-Moon-Gen-3-V-likenew_11.jpg"
-          ],
-          "priceOld": 135,
-          "priceNew": 122,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "popular female",
-            "female"
-          ],
-          "description": "Đồng hồ Freelook là một trong những dòng đồng thời trang bán chạy nhất nước Pháp và một vài năm trở lại đã chính thức có mặt tại thị trường Việt Nam, nằm trong phân khúc từ 1-2 triệu đồng với đa dạng mẫu mã và màu sắc đầy cuốn hút làm nức lòng chị em phụ nữ. Với đa phong cách thì đồng hồ nữ Freelook thực sự là một bảo bối thời trang – trang sức cho phái đẹp thêm tự tin và tỏa hương sắc. Đồng Hồ Tuấn Hưng là đơn vị phân sản phẩm đồng hồ Free look trên toàn quốc.",
-          "count": 1
-        }
-      ],
-      "totalCost": 10607.7,
-      "payMethod": "ZaloPay",
-      "createdAt": 1627868695718,
-      "updatedAt": 1627868695718,
-      "id": 8
-    },
-    {
-      "email": "nguyenquocdung281099@gmail.com",
-      "fullName": "Nguyễn Quốc Dũng",
-      "phone": "0971934862",
-      "address": "HT",
-      "codeDiscount": "discount5",
-      "status": "DELIVERY",
-      "cart": [
-        {
-          "id": 1,
-          "name": "Bentley-BL2096-152WWI-ok1",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 42,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "image2": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-          "image3": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-          "count": 2
-        },
-        {
-          "id": 5,
-          "name": "Bentley-BL1784-302KCD-1",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/03/Bentley-BL1784-302KCD-1.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_2.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_4.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S_3.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 4
-        }
-      ],
-      "totalCost": 6840,
-      "payMethod": "visa-master",
-      "createdAt": 1627888966770,
-      "updatedAt": 1627888966770,
-      "id": 9
-    },
-    {
-      "email": "nguyenquocdung2810991@gmail.com",
-      "fullName": "Quốc Dũng",
-      "prefix": "85",
-      "phone": "0971934862",
-      "address": "HT",
-      "codeDiscount": "discount5",
-      "status": "RECEIVED",
-      "cart": [
-        {
-          "id": 41,
-          "name": "wactch-2-lte-oke",
-          "category": "Smart watch",
-          "brand": "Samsung",
-          "size": 38,
-          "imageMain": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/w/a/wactch-2-lte.jpg",
-          "image": [
-            "https://www.mainguyen.vn/img/2020/08/product/colors/l/vn-galaxy-watch3-r840-sm-r840nzs--5-.jpg",
-            "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-2.jpg",
-            "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-1.jpg"
-          ],
-          "priceOld": 300,
-          "priceNew": "120",
-          "rating": 3,
-          "number": 10,
-          "tag": [
-            "middle",
-            "male"
-          ],
-          "description": "Thiết kế tinh tế, đậm chất cổ điển Theo dõi sức khỏe vượt trội với công nghệ cải tiến Nghe nhạc đỉnh cao, nhận thông báo nhanh chóng",
-          "image2": "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-1.jpg",
-          "image3": "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-2.jpg",
-          "count": 1
-        },
-        {
-          "size": [
-            38,
-            46
-          ],
-          "id": 40,
-          "name": "wactch-2-lte-40mm",
-          "category": "Smart watch",
-          "brand": "Samsung",
-          "imageMain": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/220x175/9df78eab33525d08d6e5fb8d27136e95/w/a/wactch-2-lte-40mm.jpg",
-          "image": [
-            "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-9.jpg",
-            "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-10.jpg",
-            "https://www.mainguyen.vn/img/2020/08/product/colors/l/dong-ho-thong-minh-samsung-galaxy-watch3-45mm-11.jpg"
-          ],
-          "priceOld": 300,
-          "priceNew": 450,
-          "rating": 4,
-          "number": 10,
-          "tag": [
-            "middle",
-            "male"
-          ],
-          "description": "Thiết kế tinh tế, đậm chất cổ điển Theo dõi sức khỏe vượt trội với công nghệ cải tiến Nghe nhạc đỉnh cao, nhận thông báo nhanh chóng",
-          "count": 3
-        },
-        {
-          "id": 2,
-          "name": "Bentley-BL2096-152KBI-S",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 38,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152KBI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_4.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-          ],
-          "priceOld": 1300,
-          "priceNew": 1200,
-          "rating": null,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "count": 1
-        },
-        {
-          "size": [
-            42
-          ],
-          "id": 1,
-          "name": "Bentley-BL2096-152WWI-ok1",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-          ],
-          "priceOld": "130",
-          "priceNew": "120",
-          "rating": 3,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "image2": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-          "image3": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-          "count": 4
-        },
-        {
-          "id": 1,
-          "name": "Bentley-BL2096-152WWI-ok1",
-          "category": "Mechanical watches",
-          "brand": "Bentley",
-          "size": 42,
-          "imageMain": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-          "image": [
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-            "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg"
-          ],
-          "priceOld": "130",
-          "priceNew": "120",
-          "rating": 3,
-          "number": 10,
-          "tag": [
-            "luxury",
-            "hot",
-            "male"
-          ],
-          "description": "Bentley Bentley BL2096-152WWI-S là mẫu đồng hồ cơ mới nhất hiện nay, xuất xứ thương hiệu đồng hồ của Đức nổi tiếng hàng đầu về sự chính xác và bền bỉ trong nghệ thuật chế tác đồng hồ. Nổi bật với 30 viên kim cương ( 12 viên tại cọc số, 18 viên còn lại được trải khắp đường viền của mặt phụ small second) và > 400 viên đá sapphire đầy sang trọng với độ tinh xảo cao mang tới phong cách sang trọng quý tộc và thanh lịch.",
-          "image2": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_2.jpg",
-          "image3": "https://donghotuanhung.com/wp-content/uploads/2021/05/Bentley-BL2096-152WWI-S_1.jpg",
-          "count": 1
-        }
-      ],
-      "totalCost": 3106.5,
-      "payMethod": "ZaloPay",
-      "createdAt": 1627898332514,
-      "updatedAt": 1627898332514,
-      "id": 10
-    }
-  ]
+  "carts": []
 }
