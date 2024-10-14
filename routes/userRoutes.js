@@ -10,11 +10,17 @@ const SECRET_KEY = '0f5f43b5b226531628722a0f20b4c276de87615dfc8516ea4240c93f4135
 // Middleware để xác thực token
 const authenticateToken = (req, res, next) => {
     const token = req.headers['authorization'] && req.headers['authorization'].split(' ')[1];
-    if (!token) return res.sendStatus(401);
+    if (!token) return res.status(401).json({ message: 'No token provided' }); // Không có token
 
     jwt.verify(token, SECRET_KEY, (err, user) => {
-        if (err) return res.sendStatus(403);
-        req.user = user;
+        if (err) {
+            // Kiểm tra xem lỗi có phải là do token hết hạn hay không
+            if (err.name === 'TokenExpiredError') {
+                return res.status(403).json({ message: 'Token has expired' }); // Token hết hạn
+            }
+            return res.status(403).json({ message: 'Invalid token' }); // Token không hợp lệ
+        }
+        req.user = user; // Lưu thông tin người dùng vào request
         next();
     });
 };

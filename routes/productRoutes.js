@@ -29,7 +29,7 @@ router.get('/products/pet', (req, res) => {
 
 router.get('/products/food', (req, res) => {
     // Lấy danh sách sản phẩm từ bảng product
-    const allProducts = db.get('products').filter(product => product.id_category === "2" && product.status === 1).value();
+    const allProducts = db.get('products').filter(product => product.category === "food" && product.status === 1).value();
 
     // Lấy danh sách food 
     const foods = db.get('food').value();
@@ -70,8 +70,8 @@ router.get('/products/food', (req, res) => {
     }
 });
 router.get('/products/supplies', (req, res) => {
-    // Lấy danh sách sản phẩm có id_category = 3 từ bảng product
-    const allProducts = db.get('products').filter(prod => prod.id_category === "3" && prod.status === 1).value();
+    // Lấy danh sách sản phẩm có category = 3 từ bảng product
+    const allProducts = db.get('products').filter(prod => prod.category === "supplies" && prod.status === 1).value();
 
     // Lấy danh sách các variations từ bảng supplies
     const supplies = db.get('supplies').value();
@@ -129,26 +129,125 @@ router.get('/food/:id', (req, res) => {
         ingredient: variation.ingredient,
         weight: variation.weight,
         price: variation.price,
+        quantity: variation.quantity
     }));
 
     // Tạo đối tượng response
     const responseData = {
         id: product.id,
-        id_category: product.id_category,
+        category: product.category,
         name: product.name,
         description: product.description,
         image: product.image,
         status: product.status,
         date_created: product.date_created,
         rating: product.rating,
+        pet_type: food.pet_type,
+        nutrition_info: food.nutrition_info,
+        expire_date: food.expire_date,
+        brand: food.brand,
+        date_created: food.date_created,
         variations_food: variationsFood,
     };
 
     res.jsonp(responseData);
 });
+// API lấy thông tin chi tiết của food cùng với thông tin sản phẩm
+router.get('/supplies/:id', (req, res) => {
+    const supplyId = req.params.id; // Lấy ID từ tham số URL
 
+    // Lấy thông tin food theo ID
+    const supply = db.get('supplies').find({ id_product: supplyId }).value(); 
 
+    if (!supply) {
+        return res.status(404).jsonp({ message: "Supply không tồn tại" });
+    }
 
+    // Lấy thông tin sản phẩm tương ứng
+    const product = db.get('products').find({ id: supply.id_product }).value();
+
+    if (!product) {
+        return res.status(404).jsonp({ message: "Sản phẩm không tồn tại" });
+    }
+
+    // Lấy tất cả variations của sản phẩm từ bảng supply
+    const allVariations = db.get('supplies').filter({ id_product: product.id }).value();
+
+    // Tạo mảng variations_supplies từ allVariations
+    const variationsSupplies = allVariations.map(variation => ({
+        id_variation: variation.id,
+        color: variation.color,
+        size: variation.size,
+        price: variation.price,
+        quantity: variation.quantity
+    }));
+
+    // Tạo đối tượng response
+    const responseData = {
+        id: product.id,
+        category: product.category,
+        name: product.name,
+        description: product.description,
+        image: product.image,
+        status: product.status,
+        date_created: product.date_created,
+        rating: product.rating,
+        material: supply.material,
+        type: supply.type,
+        expire_date: supply.expire_date,
+        brand: supply.brand,
+        date_created: supply.date_created,
+        variations_supplies: variationsSupplies,
+    };
+
+    res.jsonp(responseData);
+});
+
+// API lấy thông tin chi tiết của food cùng với thông tin sản phẩm
+router.get('/pets/:id', (req, res) => {
+    const petId = req.params.id; // Lấy ID từ tham số URL
+
+    // Lấy thông tin pet theo ID
+    const pet = db.get('pet').find({ id_product: petId }).value(); 
+
+    if (!pet) {
+        return res.status(404).jsonp({ message: "Pet không tồn tại" });
+    }
+
+    // Lấy thông tin sản phẩm tương ứng
+    const product = db.get('products').find({ id: pet.id_product }).value();
+
+    if (!product) {
+        return res.status(404).jsonp({ message: "Sản phẩm không tồn tại" });
+    }
+
+    // Tạo đối tượng response
+    const responseData = {
+        id: product.id,
+        category: product.category,
+        name: product.name,
+        description: product.description,
+        image: product.image,
+        status: product.status,
+        date_created: product.date_created,
+        rating: product.rating,
+        gender: pet.gender,
+        health: pet.health,
+        father: pet.father,
+        mother: pet.mother,
+        type: pet.type,
+        deworming: pet.deworming,
+        vaccine: pet.vaccine,
+        breed: pet.breed,
+        breed_origin: pet.breed_origin,
+        trait: pet.trait,
+        date_of_birth: pet.date_of_birth,
+        quantity: pet.quantity,
+        price: pet.price,
+    };
+
+    res.jsonp(responseData);
+});
 
 router.get('/products/test', (req, res) => {
     res.jsonp({ message: "Test route is working!" });

@@ -9,6 +9,8 @@ const middlewares = jsonServer.defaults();
 const authRoutes = require('./routes/authRoutes');
 const serverRoutes = require('./routes/userRoutes');
 const productRoutes = require('./routes/productRoutes');
+const commentRoutes = require('./routes/commentRoutes');
+const cartRoutes = require('./routes/cartItemRoutes');
 server.use(middlewares);
 server.use(auth);
 server.use(jsonServer.bodyParser);
@@ -18,6 +20,8 @@ server.db = router.db;
 server.use('/api', authRoutes);
 server.use("/api", serverRoutes);
 server.use("/api", productRoutes);
+server.use("/api", commentRoutes);
+server.use("/api", cartRoutes);
 
 server.get('/test', (req, res) => {
     res.jsonp({ message: "Test route is working!" });

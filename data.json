@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "1",
-      "id_category": "1",
+      "category": "pet",
       "name": "Chó Husky Úc",
       "description": "Chó blablabla",
       "image": "https://www.bing.com/th?id=OIP.Vpgauy8xblHnrhVvVyawyAHaEl&w=174&h=106&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
@@ -12,6 +12,7 @@
     },
     {
       "id": "2",
+      "category": "pet",
       "name": "Chó Ngao Tây Tạng",
       "description": "Chó blablabla",
       "image": "https://www.bing.com/th?id=OIP.UJxwG6U-s2-LiwIQSB4zTgHaHa&w=99&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
@@ -21,6 +22,7 @@
     },
     {
       "id": "3",
+      "category": "pet",
       "name": "Chó Corgi",
       "description": "Chó blablabla",
       "image": "https://www.bing.com/th?id=OIP.TQO0WLP2cY0R-Vy5E_0WeAHaE7&w=139&h=102&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
@@ -30,6 +32,7 @@
     },
     {
       "id": "4",
+      "category": "pet",
       "name": "Chó Poodles",
       "description": "Chó blablabla",
       "image": "https://www.bing.com/th?id=OIP.3zyJqX48DP9p68FHfMAawwHaJ3&w=154&h=206&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
@@ -39,6 +42,7 @@
     },
     {
       "id": "5",
+      "category": "pet",
       "name": "Chó Daniel Tam",
       "description": "Chó blablabla",
       "image": "https://th.bing.com/th/id/OIP.Bkwwsow4Di-jBc5zvO6M4gHaLH?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
@@ -48,60 +52,60 @@
     },
     {
       "id": "6",
-      "id_category": "2",
+      "category": "food",
       "name": "Thức ăn A",
       "description": "Đồ ăn blablabla",
-      "image": "",
+      "image": "https://th.bing.com/th/id/OIP.D2eIwHEeM0HmZ51TxQg1kAHaHa?w=158&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       "status": 1,
       "date_created": "vv",
       "rating": 1
     },
     {
       "id": "7",
-      "id_category": "2",
+      "category": "food",
       "name": "Thức ăn B",
       "description": "Đồ ăn blablabla",
-      "image": "",
+      "image": "https://th.bing.com/th/id/OIP.O28QXnaOYu7DklClqNcoHQHaG6?w=188&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       "status": 1,
       "date_created": "vv",
       "rating": 1
     },
     {
       "id": "8",
-      "id_category": "2",
+      "category": "food",
       "name": "Thức ăn C",
       "description": "Đồ ăn blablabla",
-      "image": "",
+      "image": "https://th.bing.com/th/id/OIP.6_jm7d05QMZ6vzjS_W2A0QHaHa?w=183&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       "status": 1,
       "date_created": "vv",
       "rating": 1
     },
     {
       "id": "9",
-      "id_category": "3",
+      "category": "supplies",
       "name": "Phụ kiện A",
-      "description": "Đồ ăn blablabla",
-      "image": "",
+      "description": "Phụ kiện blablabla",
+      "image": "https://th.bing.com/th/id/OIP.tqp_CRk6W3ivm9J3hgbH1QHaHL?w=209&h=202&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       "status": 1,
       "date_created": "vv",
       "rating": 1
     },
     {
       "id": "10",
-      "id_category": "3",
+      "category": "supplies",
       "name": "Phụ kiện B",
-      "description": "Đồ ăn blablabla",
-      "image": "",
+      "description": "Phụ kiện blablabla",
+      "image": "https://th.bing.com/th/id/OIP.9uaCSdeGOy-8HEmu-xdBewHaHa?w=180&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       "status": 1,
       "date_created": "vv",
       "rating": 2
     },
     {
       "id": "11",
-      "id_category": "3",
+      "category": "supplies",
       "name": "Phụ kiện C",
-      "description": "Đồ ăn blablabla",
-      "image": "",
+      "description": "Phụ kiện blablabla",
+      "image": "https://th.bing.com/th/id/OIP.kW1cqeH1XpHan4FfnQ-ciAHaE8?w=266&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       "status": 1,
       "date_created": "vv",
       "rating": 3
@@ -111,27 +115,97 @@
     {
       "id": "1",
       "id_product": "1",
-      "price": 20000
+      "price": "20000",
+      "gender": "Đực",
+      "health": "Tốt",
+      "father": "Husky",
+      "mother": "Corgi",
+      "type": "Chó",
+      "deworming": "Năm 2024",
+      "vaccine": "Đã chích",
+      "breed": "Chó husky",
+      "breed_origin": "Không thuần chủng",
+      "trait": "Năng động, thông minh",
+      "date_of_birth": "20/1/2020",
+      "quantity": "20",
+      "date_created": "20/2/2020",
+      "status": "1"
     },
     {
       "id": "2",
       "id_product": "2",
-      "price": 30000
+      "price": 30000,
+      "gender": "Cái",
+      "health": "Tốt",
+      "father": "Chó ngao",
+      "mother": "Chó ngao",
+      "type": "Chó",
+      "deworming": "Năm 2024",
+      "vaccine": "Đã chích",
+      "breed": "Chó ngao Tây Tạng",
+      "breed_origin": "Thuần chủng",
+      "trait": "Thông minh, ít hoạt bát",
+      "date_of_birth": "20/1/2021",
+      "quantity": "20",
+      "date_created": "20/2/2021",
+      "status": "1"
     },
     {
       "id": "3",
       "id_product": "3",
-      "price": 40000
+      "price": 40000,
+      "gender": "Đực",
+      "health": "Tốt",
+      "father": "Husky",
+      "mother": "Corgi",
+      "type": "Chó",
+      "deworming": "Năm 2024",
+      "vaccine": "Đã chích",
+      "breed": "Chó husky",
+      "breed_origin": "Không thuần chủng",
+      "trait": "Năng động, thông minh",
+      "date_of_birth": "20/1/2020",
+      "quantity": "20",
+      "date_created": "20/2/2020",
+      "status": "1"
     },
     {
       "id": "4",
       "id_product": "4",
-      "price": 50000
+      "price": 50000,
+      "gender": "Đực",
+      "health": "Tốt",
+      "father": "Poddles",
+      "mother": "Corgi",
+      "type": "Chó",
+      "deworming": "Năm 2024",
+      "vaccine": "Đã chích",
+      "breed": "Chó Poddles",
+      "breed_origin": "Không thuần chủng",
+      "trait": "Năng động, thông minh",
+      "date_of_birth": "20/1/2020",
+      "quantity": "20",
+      "date_created": "20/2/2020",
+      "status": "1"
     },
     {
       "id": "5",
       "id_product": "5",
-      "price": 60000
+      "price": 60000,
+      "gender": "Đực",
+      "health": "Tốt",
+      "father": "3 Gà",
+      "mother": "Clear",
+      "type": "Chó",
+      "deworming": "Năm 2024",
+      "vaccine": "Đã chích",
+      "breed": "Chó Daniel Tam",
+      "breed_origin": "Không thuần chủng",
+      "trait": "Năng động, thông minh",
+      "date_of_birth": "20/1/2020",
+      "quantity": "20",
+      "date_created": "20/2/2020",
+      "status": "1"
     }
   ],
   "food": [
@@ -140,35 +214,98 @@
       "id_product": "6",
       "ingredient": "Gà",
       "weight": "5kg",
-      "price": 40000
+      "price": 40000,
+      "pet_type": "Chó, mèo",
+      "nutrition_info": "cacbon, chất xơ, kali, kẽm, sắt",
+      "expire_date": "20/8/2025",
+      "brand": "Pet friends",
+      "quantity": "20",
+      "date_created": "20/1/2021",
+      "status": 1
     },
     {
       "id": "2",
       "id_product": "6",
-      "ingredient": "Bò",
+      "ingredient": "Gà",
       "weight": "10kg",
-      "price": 40000
+      "price": 50000,
+      "pet_type": "Chó, mèo",
+      "nutrition_info": "cacbon, chất xơ, kali, kẽm, sắt",
+      "expire_date": "20/8/2025",
+      "brand": "Pet friends",
+      "quantity": "10",
+      "date_created": "20/1/2021",
+      "status": 1
     },
     {
       "id": "3",
-      "id_product": "7",
+      "id_product": "6",
       "ingredient": "Bò",
       "weight": "5kg",
-      "price": 50000
-    },
-    {
-      "id": "3",
-      "id_product": "8",
-      "ingredient": "Gà",
-      "weight": "15kg",
-      "price": 50000
+      "price": 60000,
+      "pet_type": "Chó, mèo",
+      "nutrition_info": "cacbon, chất xơ, kali, kẽm, sắt",
+      "expire_date": "20/8/2025",
+      "brand": "Pet friends",
+      "quantity": "10",
+      "date_created": "20/1/2021",
+      "status": 1
     },
     {
       "id": "4",
+      "id_product": "6",
+      "ingredient": "Bò",
+      "weight": "10kg",
+      "price": 70000,
+      "pet_type": "Chó, mèo",
+      "nutrition_info": "cacbon, chất xơ, kali, kẽm, sắt",
+      "expire_date": "20/8/2025",
+      "brand": "Pet friends",
+      "quantity": "10",
+      "date_created": "20/1/2021",
+      "status": 1
+    },
+    {
+      "id": "5",
+      "id_product": "7",
+      "ingredient": "Bò",
+      "weight": "5kg",
+      "price": 50000,
+      "pet_type": "Chó",
+      "nutrition_info": "cacbon, chất xơ, kali, kẽm, sắt",
+      "expire_date": "20/8/2026",
+      "brand": "Food heaven",
+      "quantity": "20",
+      "date_created": "20/1/2020",
+      "status": 1
+    },
+    {
+      "id": "6",
+      "id_product": "8",
+      "ingredient": "Gà",
+      "weight": "15kg",
+      "price": 50000,
+      "pet_type": "Mèo",
+      "nutrition_info": "cacbon, chất xơ, kali, kẽm, sắt",
+      "expire_date": "20/8/2026",
+      "brand": "Pet homes",
+      "quantity": "10",
+      "date_created": "20/1/2020",
+      "status": 1
+    },
+    {
+      "id": "7",
       "id_product": "8",
       "ingredient": "Bò",
       "weight": "5kg",
-      "price": 40000
+      "price": 40000,
+      "pet_type": "Mèo",
+      "nutrition_info": "cacbon, chất xơ, kali, kẽm, sắt",
+      "expire_date": "20/8/2026",
+      "brand": "Pet homes",
+      "quantity": "15",
+      "date_created": "20/1/2020",
+      "status": 1
     }
   ],
   "supplies": [
@@ -177,62 +314,156 @@
       "id_product": "9",
       "color": "Sáng",
       "size": "Nhỏ",
-      "price": 40000
+      "price": 40000,
+      "material": "Nhựa",
+      "brand": "Pet Plays",
+      "type": "Đồ chơi",
+      "quantity": 20,
+      "date_created": "20/4/2022",
+      "status": 1
     },
     {
       "id": "2",
       "id_product": "9",
       "color": "Sáng",
       "size": "Trung bình",
-      "price": 50000
+      "price": 50000,
+      "material": "Nhựa",
+      "brand": "Pet Plays",
+      "type": "Đồ chơi",
+      "quantity": 20,
+      "date_created": "20/4/2022",
+      "status": 1
     },
     {
       "id": "3",
       "id_product": "9",
       "color": "Tối",
+      "size": "Nhỏ",
+      "price": 60000,
+      "material": "Nhựa",
+      "brand": "Pet Plays",
+      "type": "Đồ chơi",
+      "quantity": 20,
+      "date_created": "20/4/2022",
+      "status": 1
+    },
+    {
+      "id": "4",
+      "id_product": "9",
+      "color": "Tối",
       "size": "Lớn",
-      "price": 60000
+      "price": 70000,
+      "material": "Nhựa",
+      "brand": "Pet Plays",
+      "type": "Đồ chơi",
+      "quantity": 20,
+      "date_created": "20/4/2022",
+      "status": 1
     },
     {
       "id": "4",
       "id_product": "10",
       "color": "Sáng",
       "size": "Nhỏ",
-      "price": 40000
+      "price": 40000,
+      "material": "Polime",
+      "brand": "House Pets",
+      "type": "Đồ chơi",
+      "quantity": 20,
+      "date_created": "20/4/2022",
+      "status": 1
     },
     {
       "id": "5",
       "id_product": "10",
       "color": "Sáng",
       "size": "Trung bình",
-      "price": 50000
+      "price": 50000,
+      "material": "Polime",
+      "brand": "House Pets",
+      "type": "Đồ chơi",
+      "quantity": 20,
+      "date_created": "20/4/2022",
+      "status": 1
     },
     {
       "id": "6",
       "id_product": "11",
       "color": "Sáng",
       "size": "Nhỏ",
-      "price": 40000
+      "price": 40000,
+      "material": "Polime",
+      "brand": "Poke3",
+      "type": "Sức khỏe",
+      "quantity": 20,
+      "date_created": "20/4/2022",
+      "status": 1
     },
     {
       "id": "7",
       "id_product": "11",
       "color": "Sáng",
       "size": "Lớn",
-      "price": 60000
+      "price": 60000,
+      "material": "Polime",
+      "brand": "Poke3",
+      "type": "Sức khỏe",
+      "quantity": 20,
+      "date_created": "20/4/2022",
+      "status": 1
     }
   ],
-  "carts": [
+  "cart_items": [
     {
-      "id": 1
+      "id": 1728896285246,
+      "id_user": "123",
+      "id_product_variant": "1",
+      "category": "pets",
+      "quantity": 3
+    },
+    {
+      "id": 1728896285247,
+      "id_user": "123",
+      "id_product_variant": "2",
+      "category": "pets",
+      "quantity": 3
+    },
+    {
+      "id": 1728911890444,
+      "id_user": "123",
+      "id_product_variant": "3",
+      "category": "food",
+      "quantity": "1"
+    },
+    {
+      "id": 1728911906383,
+      "id_user": "123",
+      "id_product_variant": "2",
+      "category": "food",
+      "quantity": "2"
+    },
+    {
+      "id": 1728911912405,
+      "id_user": "123",
+      "id_product_variant": "3",
+      "category": "supplies",
+      "quantity": "1"
+    },
+    {
+      "id": 1728911916103,
+      "id_user": "123",
+      "id_product_variant": "2",
+      "category": "supplies",
+      "quantity": "1"
     }
   ],
   "users": [
     {
       "id": "123",
       "email": "tdv1@gmail.com",
-      "password": "123",
-      "name": "Daniel Tam",
+      "password": "123456",
+      "name": "Daniel Ta",
       "role": "admin",
       "telephone_number": "0905178953",
       "province": "Đà Nẵng",
@@ -257,26 +488,95 @@
       "status": 1,
       "telephone_number": "",
       "nationality": "Vietnam"
+    },
+    {
+      "id": "1728731183745",
+      "email": "t@gmail.com",
+      "password": "123456",
+      "name": "",
+      "role": "user",
+      "telephone_number": "",
+      "country": "Vietnam",
+      "province": "",
+      "district": "",
+      "ward": "",
+      "street": "",
+      "image": "",
+      "status": 1
     }
   ],
   "comments": [
     {
-      "userName": "Daniel Tam",
-      "rating": 4,
+      "id": "1",
+      "id_user": "123",
+      "id_product": "6",
+      "star": 4,
       "content": "Sản phẩm tốt đó",
       "time": "24/10/2022"
     },
     {
-      "userName": "3 Ga`",
-      "rating": 2,
+      "id": "1",
+      "id_user": "123",
+      "id_product": "6",
+      "star": 2,
       "content": "Sản phẩm quá tệ",
       "time": "24/10/2023"
     },
     {
-      "userName": "BRB",
-      "rating": 5,
+      "id": "1",
+      "id_user": "1728392629427",
+      "id_product": "6",
+      "star": 2,
       "content": "Sản phẩm quá tuyệt vời",
       "time": "22/6/2022"
+    },
+    {
+      "id": "1728880573051",
+      "id_user": "123",
+      "id_product": "6",
+      "star": 3,
+      "content": "Sản phẩm tạm được",
+      "time": "14/10/2024"
+    },
+    {
+      "id": "1728880615931",
+      "id_user": "123",
+      "id_product": "7",
+      "star": 5,
+      "content": "okela",
+      "time": "14/10/2024"
+    },
+    {
+      "id": "1728880933458",
+      "id_user": "123",
+      "id_product": "1",
+      "star": "2",
+      "content": "ok",
+      "time": "24/10/2024"
+    },
+    {
+      "id": "1728880963106",
+      "id_user": "123",
+      "id_product": "1",
+      "star": "2",
+      "content": "ok",
+      "time": "24/10/2024"
+    },
+    {
+      "id": "1728881957904",
+      "id_user": "123",
+      "id_product": "5",
+      "star": 5,
+      "content": "wow",
+      "time": "10/14/2024"
+    },
+    {
+      "id": "1728897258076",
+      "id_user": "123",
+      "id_product": "9",
+      "star": 5,
+      "content": "okkkk",
+      "time": "10/14/2024"
     }
   ]
 }
