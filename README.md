@@ -1,0 +1,2 @@
+Chạy:
+node server
