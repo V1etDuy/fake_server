@@ -28,7 +28,6 @@ const authenticateToken = (req, res, next) => {
 router.post('/cartItem/add', authenticateToken, (req, res) => {
     const { id_product_variant, category, quantity } = req.body;
     const id_user = req.user.id;  // Lấy id_user từ token sau khi xác thực
-
     // Truy xuất dữ liệu cart_items từ data.json
     const cartItems = db.get('cart_items').value();
 
@@ -41,23 +40,23 @@ router.post('/cartItem/add', authenticateToken, (req, res) => {
 
     if (existingItem) {
         // Nếu có, cập nhật quantity
-        const updatedQuantity = (parseInt(existingItem.quantity, 10) 
+        const updatedQuantity = (parseInt(existingItem.quantity, 10)
             + parseInt(quantity, 10)).toString();
         console.log(updatedQuantity);
         db.get('cart_items')
             .find({ id_user, id_product_variant, category })
             .assign({ quantity: updatedQuantity })
             .write();
-        
+
         res.status(200).json({ message: 'Cập nhật giỏ hàng thành công!' });
     } else {
         // Nếu không có, tạo bản ghi mới
         const newItem = {
-            id: Date.now(),  // Tạo ID duy nhất cho cart item
+            id: Date.now().toString(),  // Tạo ID duy nhất cho cart item
             id_user,
             id_product_variant,
             category,
-            quantity
+            quantity: quantity.toString()
         };
 
         db.get('cart_items')
@@ -69,10 +68,10 @@ router.post('/cartItem/add', authenticateToken, (req, res) => {
 });
 // Route load sản phẩm giỏ hàng của 1 user
 router.get("/cartItems", authenticateToken, (req, res) => {
-    
+
     const userId = req.user.id; // Lấy id_user từ token
     const cartItems = db.get("cart_items").filter({ id_user: userId }).value(); // Tìm cart items của user
-
+    console.log(cartItems.length);
     // Tạo một danh sách để lưu các item hoàn chỉnh
     const completeCartItems = cartItems.map(item => {
         let completeItem = {
@@ -81,9 +80,9 @@ router.get("/cartItems", authenticateToken, (req, res) => {
             category: item.category,
             quantity: item.quantity,
             ingredient: "",
-            weight:"",
-            size:"",
-            color:""
+            weight: "",
+            size: "",
+            color: ""
         };
 
         // Lấy thông tin từ bảng pet, food hoặc supplies dựa trên category
@@ -124,5 +123,54 @@ router.get("/cartItems", authenticateToken, (req, res) => {
     // Trả về danh sách item hoàn chỉnh
     res.json(completeCartItems);
 });
+
+// Route để cập nhật giỏ hàng
+router.post('/cartItems/update', authenticateToken, (req, res) => {
+    const userId = req.user.id; // Lấy id_user từ token
+    const cartItems = req.body; // Nhận danh sách cart items cần cập nhật
+    console.log(userId);
+    // Danh sách các ID cần giữ lại
+    const idsToKeep = cartItems.map(item => item.id);
+
+    // Lặp qua từng cart item để cập nhật
+    cartItems.forEach(item => {
+        const { id, id_product_variant, category, quantity } = item;
+        console.log(id);
+        // Kiểm tra xem có item tương ứng trong cart_items không
+        const existingItem = db.get('cart_items').find({
+            id: id,
+            id_user: userId
+        }).value();
+
+        if (existingItem) {
+            // Nếu có, cập nhật quantity
+            const updatedQuantity = parseInt(quantity, 10).toString();
+            db.get('cart_items')
+                .find({ id: id })
+                .assign({ quantity: updatedQuantity })
+                .write();
+            console.log("Cập nhật: " + updatedQuantity);
+        } else {
+            // Nếu không có, tạo mới (nếu cần)
+            const newItem = {
+                id: Date.now(),  // Tạo ID duy nhất cho cart item
+                id_user: userId,
+                id_product_variant,
+                category,
+                quantity
+            };
+            db.get('cart_items').push(newItem).write();
+            console.log("Tạo mới: " + id);
+        }
+    });
+
+    // Xóa các item không có trong danh sách cartItems
+    db.get('cart_items')
+        .remove(item => item.id_user === userId && !idsToKeep.includes(item.id))
+        .write();
+
+    res.status(200).json({ message: 'Cập nhật giỏ hàng thành công!' });
+});
+
 
 module.exports = router;

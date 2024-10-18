@@ -11,6 +11,8 @@ const serverRoutes = require('./routes/userRoutes');
 const productRoutes = require('./routes/productRoutes');
 const commentRoutes = require('./routes/commentRoutes');
 const cartRoutes = require('./routes/cartItemRoutes');
+const voucherRoutes = require('./routes/voucherRoutes');
+const orderRoutes = require('./routes/orderRoutes');
 server.use(middlewares);
 server.use(auth);
 server.use(jsonServer.bodyParser);
@@ -22,6 +24,8 @@ server.use("/api", serverRoutes);
 server.use("/api", productRoutes);
 server.use("/api", commentRoutes);
 server.use("/api", cartRoutes);
+server.use("/api", voucherRoutes);
+server.use("/api", orderRoutes);
 
 server.get('/test', (req, res) => {
     res.jsonp({ message: "Test route is working!" });
